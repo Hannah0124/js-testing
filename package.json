@@ -28,6 +28,7 @@
   "homepage": "https://github.com/AdaGold/JS-Testing#readme",
   "devDependencies": {},
   "dependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "jest-cli": "^25.2.4"
   }
 }
