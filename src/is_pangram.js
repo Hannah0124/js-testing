@@ -12,6 +12,7 @@ const isPangram = function(text) {
     lettersUsed[letter] = false;
   });
 
+  // Mark the used letter as 'true'
   text.forEach((letter) => {
     lettersUsed[letter] = true;
   });
